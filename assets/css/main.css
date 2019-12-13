@@ -2348,6 +2348,14 @@ input, select, textarea {
 
 /* Icons */
 
+	ul.icons-top {
+		display: flex;
+		justify-content: center;
+		cursor: default;
+		list-style: none;
+		padding-left: 0;
+	}
+
 	ul.icons {
 		cursor: default;
 		list-style: none;
