@@ -2164,6 +2164,12 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
+		transition: all 0.3s ease-in-out;
+	}
+
+	.image:hover {
+		opacity: 0.6;
+		transition: all 0.3s ease-in-out;
 	}
 
 		.image img {
@@ -2902,6 +2908,8 @@ input, select, textarea {
 		}
 
 /* Contact Method */
+
+	
 
 	.contact-method {
 		margin: 0 0 2em 0;
