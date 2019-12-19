@@ -3508,6 +3508,9 @@ input, select, textarea {
 				-ms-align-items: center;
 				align-items: center;
 				margin: 0 0 2em 0;
+				    display: flex;
+    flex-direction: column;
+    align-items: center;
 			}
 
 				#banner > .inner .content > * {
@@ -3517,7 +3520,7 @@ input, select, textarea {
 
 				#banner > .inner .content > :last-child {
 					margin-right: 0;
-					font-size: 14px;
+				
 				}
 
 				#banner > .inner .content p {
@@ -4003,3 +4006,7 @@ input, select, textarea {
 		}
 		
 
+
+		.lower-desc {
+			margin-top: 14px;
+		}
