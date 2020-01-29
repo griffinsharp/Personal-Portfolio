@@ -1,1 +1,1 @@
-This is the web development portfolio of Griffin Sharp. Currently under construction.
+This is the web development portfolio of Griffin Sharp. Hoping to redesign using React soon. 
